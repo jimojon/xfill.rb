@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lang>
 	
-	<xxx>xx</xxx>
+	<xxx>Hello</xxx>
 	
 	<a>
-		<b>xx</b>
-		<c label="xx"/>
+		<b>World</b>
+		<c label="This"/>
 	</a>
 	
-    <text>xx</text>
+    <text>is</text>
     
     <menu>
-        <item1 id="a" label="xx" subtitle="xx">
-        	<item2 label="xx">
-        		<item3 label="xx">xx</item3>
-        	</item2>
+        <item1 id="0568" label="a" subtitle="test">
+            <item2 label="with">
+                <item3 label="éléments">and</item3>
+                <item3 label="attributes">!</item3>
+            </item2>
         </item1>
     </menu>
 	
