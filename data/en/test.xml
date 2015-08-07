@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lang>
+	
+	<xxx>xx</xxx>
+	
+	<a>
+		<b>xx</b>
+		<c label="xx"/>
+	</a>
+	
+    <text>xx</text>
+    
+    <menu>
+        <item1 id="a" label="xx" subtitle="xx">
+        	<item2 label="xx">
+        		<item3 label="xx">xx</item3>
+        	</item2>
+        </item1>
+    </menu>
+	
+</lang>
